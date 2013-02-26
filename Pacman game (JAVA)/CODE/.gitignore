@@ -1,0 +1,14 @@
+# Executables #
+###############
+*.class
+bin/
+
+# Eclipse #
+###########
+.project
+.settings
+.externalToolBuilders/
+
+# Conflicted copies and autosaves #
+###################################
+*~
