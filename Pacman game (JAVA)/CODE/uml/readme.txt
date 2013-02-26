@@ -1,1 +1,0 @@
-Place uml files here and delete this file. This file was only created to be able to push this folder to git.
