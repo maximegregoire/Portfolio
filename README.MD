@@ -1,7 +1,7 @@
 Here is my collection of past projects. Each project has its own README.
 Note: some projects are located in a different repository.
 
-* [Contactless Access (Arduino, Java, Fast-Protoyping)](https://www.github.com/maximegregoire/can)
+* [Contactless Access (Arduino, Java, Fast Protoyping)](https://www.github.com/maximegregoire/can)
 
 * [Facial Recognition Software (C#, Winner of CodeJam 2014)](https://www.github.com/maximegregoire/codejam2014)
 
