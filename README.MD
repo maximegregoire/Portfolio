@@ -2,7 +2,6 @@ Maxime Grégoire's Coding Portfolio
 ======
 
 Here is my collection of past projects. Each project is described in its respective README file.
-###### Note: some projects are located in a different repository.
 
 * [Contactless Access (Arduino, Java, Fast Protoyping)](https://www.github.com/maximegregoire/can)
 
